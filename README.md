@@ -1,2 +1,2 @@
 # news
-narasi hidup 1996
+# narasi hidup 1996
